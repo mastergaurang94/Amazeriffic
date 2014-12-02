@@ -1,6 +1,5 @@
 Amazeriffic
 ===========
+A Node.js and MongoDB web application for task management I built.
 
-To-do list website functionality
-
-Implemented via HTML5, CSS3, JavaScript, Node.js, MongoDb and hosted on Cloud Foundry.
+O'Reilly's Learning Web Apps by Semmy Purewal was my guide.
